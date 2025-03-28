@@ -16,7 +16,7 @@ roll_number = st.text_input("roll number - [UPPER CASE PREFERRED] (e.g., 22A81A0
 admin_details = """
 admin contact details:  
 - Prasanna Kumar: +91 93926 93465  
-- Mohan: +91 93926 93465  
+- Mohan:  +91 80742 74880
 """
 
 # search button
